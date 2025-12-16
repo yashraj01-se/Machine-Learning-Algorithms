@@ -27,7 +27,7 @@ If K is large:
 Smooth decision boundary
 Can underfit
 
-# KNN Produces Non-Linear Boundaries One that Logistic regression fals.
+# KNN Produces Non-Linear Boundaries One that Logistic regression fials.
 
 # One-Line Mental Model
 KNN predicts by asking: “Who are your closest neighbors?”
