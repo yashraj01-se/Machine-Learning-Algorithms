@@ -1,5 +1,5 @@
 # KNN is used for both Classification and Regression but mostly used for classification.
-
+## Choice of k controls and Bias and Varience tradeoff.
 # Key idea:
 
 “Similar points should have similar labels.”
