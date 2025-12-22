@@ -31,3 +31,14 @@ Depending on feature type:
 
 # OneLine Explanation:
 Naive Bayes is a probabilistic classifier that applies Bayes’ theorem with a strong independence assumption between features.                     
+
+# Time & Space Complexity (Interview MUST)
+Training
+Time: O(N × D)
+Space: O(C × D)
+Prediction (per sample)
+Time: O(C × D)
+Where:
+N = samples
+D = features
+C = classes
